@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.total-price {
+  color: red; /* Red color */
+  font-weight: bold; /* Makes the text bold */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Optional: Adds a subtle shadow for better contrast */
+}
